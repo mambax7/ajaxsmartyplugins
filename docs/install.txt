@@ -1,0 +1,19 @@
+INSTALL/UNISTALL
+=================
+
+Follow the standard installation process and extract the module folder into the ../modules directory. Install the module through Admin -> System Module -> Modules.
+
+Detailed instructions on installing modules are available in the XOOPS Operations Manual: https://www.gitbook.com/book/xoops/xoops-operations-guide/
+
+IMPORTANT:
+==========
+
+copy the content of the /plugins folder, i.e. the three files:
+
+block.ajax_form.php
+function.ajax_call.php
+function.ajax_update.php
+
+to:
+
+htdocs/class/smarty/xoops_plugins/

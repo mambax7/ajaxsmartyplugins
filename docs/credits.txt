@@ -1,0 +1,6 @@
+Credits
+===============
+
+Originally developed by Dmytro Shteflyuk (https://kpumuk.info/php/ajax-enabled-smarty-plugins/comment-page-1/)
+
+Converted to XOOPS by Michael Beck (Mamba)
